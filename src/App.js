@@ -16,7 +16,7 @@ function App() {
     if(value ==='X') 
       return 'greenyellow';
     if(value ==='O')
-     return 'royalblue';
+     return 'aqua';
 
     return '';
   }

@@ -6,7 +6,7 @@
 
 .header{
   font-size: 2rem;
-  font-weight: 800;
+  font-weight: 900;
   height: 8vh;
   border-bottom: 1px solid white;
 }
@@ -18,9 +18,9 @@
 }
 
 .board{
-  height: 90vh;
+  height: 92vh;
   font-size: 2rem;
-  font-weight: 800;
+  font-weight: 900;
   flex-direction: column;
   justify-content: space-evenly;
 }
@@ -31,23 +31,23 @@
 }
 
 .cell{
-width: 20vw;
+width: 25vw;
 border:  1px solid white;
 color: black;
-font-size: 5rem;
+font-size: 6rem;
 }
 
 .greenyellow{
   background-color: greenyellow;
 }
 
-.royalblue{
-  background-color: royalblue;
+.aqua{
+  background-color:aqua;
 }
 
 .restart{
-height: 7vh;
-width: 20vw;
+height: 6vh;
+width: 25vw;
 font-size: 2rem;
-background-color: aqua;
+background-color: violet;
 }
